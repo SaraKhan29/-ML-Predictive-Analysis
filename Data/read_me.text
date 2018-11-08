@@ -1,1 +1,11 @@
+Dataset link: http://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq
+
+Data.csv - Containing 801 samples and 16834 gene expressions
+labels.csv- Type of cancer for 801 samples
+(Note: Please rewrite the path in CancerPrediction_RNA_V3_Structured depending on your data location.
+
+
+For testing:
+DataSamples_test.xlsx: 100 best features for each sample using the best model used.
+DataLabels_test.xlsx: Corresponding response values for samples in DataSamples_test.xlsx
 
