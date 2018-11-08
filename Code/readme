@@ -1,1 +1,16 @@
+Execution:
 
+The project runs using Testproject.html
+Input: A text file containing 100 gene expressions' values separated by comma
+Output: Alertbox stating the type of cancer
+
+Supporting files:
+Testproject.css - Style sheet for html file
+KNearest_100: Js file containing K Nearest ML model using 100 features
+
+
+Python: CancerPrediction_RNA_V3_Structured.ipynb- Jupyter notebook containing the codes of all machine learning models
+
+Sample test files:
+Sample0_PRAD.txt  -Containing 100 gene expressions as features of sample 0 , Classifier output is PRAD
+Sample11_KIRC.txt -Containing 100 gene expressions as features of sample 11, Classifier output is KIRC
