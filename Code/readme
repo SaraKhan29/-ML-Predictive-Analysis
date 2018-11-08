@@ -14,3 +14,6 @@ Python: CancerPrediction_RNA_V3_Structured.ipynb- Jupyter notebook containing th
 Sample test files:
 Sample0_PRAD.txt  -Containing 100 gene expressions as features of sample 0 , Classifier output is PRAD
 Sample11_KIRC.txt -Containing 100 gene expressions as features of sample 11, Classifier output is KIRC
+Sample15_BRCA.txt -Containing 100 gene expressions as features of sample 11, Classifier output is BRCA
+Sample84_COAD.txt -Containing 100 gene expressions as features of sample 11, Classifier output is COAD
+Sample96_LUAD.txt -Containing 100 gene expressions as features of sample 11, Classifier output is LUAD
